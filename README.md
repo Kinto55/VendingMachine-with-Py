@@ -1,5 +1,4 @@
 # VendingMachine-with-Py
-  # Python Vending Machine
 ## A simple Python script that simulates a vending machine.
 
 ## Description
