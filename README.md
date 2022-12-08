@@ -1,33 +1,26 @@
 # VendingMachine-with-Py
+  # Python Vending Machine
+## A simple Python script that simulates a vending machine.
 
-VendingMachine
-This is a python project that implements a vending machine.
+## Description
 
-Prerequisites
-Before you begin, make sure you have the following:
+This script allows users to purchase items from a virtual vending machine using virtual currency. The user can select an item, enter their payment, and receive the item if the payment is sufficient. The vending machine also keeps track of inventory and makes change for the user.
 
-Python 3 installed on your machine
-A basic understanding of python programming
-Installation
-To install the project, follow these steps:
+## Installation
 
-Clone the repository to your local machine using https://github.com/<your-username>/vendingmachine.git
-Navigate to the project directory using the command line
-Run pip install -r requirements.txt to install the project dependencies
-Usage
-To use the vending machine, follow these steps:
+To use this script, you will need to have Python 3 installed on your computer. You can download Python 3 from the [Python website](https://www.python.org/downloads/).
 
-Navigate to the project directory using the command line
-Run python vendingmachine.py to start the vending machine
-Select the item you want to purchase by entering the corresponding number
-Enter the amount of money you want to use to purchase the item
-The vending machine will dispense the item and give you any change if applicable
-Contributions
-If you want to contribute to this project, please follow these guidelines:
+Once you have Python 3 installed, you can download the script by clicking the "Clone or download" button on this page and then clicking "Download ZIP." Extract the ZIP file and open the `vending_machine.py` file in a text editor or Python IDE.
 
-Fork the repository and clone it to your local machine
-Create a new branch for your changes (e.g. fix-typo)
-Make your changes and commit them to your branch
-Push your branch to your forked repository
-Submit a pull request to the main repository
-We will review your changes and merge them if they fit with the project. Thank you for contributing!
+## Usage
+
+To run the script, open a terminal or command prompt and navigate to the directory where you saved the `vending_machine.py` file. Then, enter the following command:
+
+
+The script will then prompt you to make a selection and enter your payment. Follow the on-screen instructions to use the vending machine.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
+  
+## We will review your changes and merge them if they fit with the project. Thank you for contributing!
